@@ -1,0 +1,60 @@
+
+1. Can you write a program in Java to rotate an array given a position \( K \)?
+2. Describe a brute force approach to solve the array rotation problem. How would you implement it in code?
+3. What is a more optimized approach to rotate the array?
+4. For a given input array of integers, can you clarify the expected output when rotating the array for different values of \( K \)?
+5. What are parallel streams in Java, and how do they work?
+6. What is a CompletableFuture in Java? Can you explain its use?
+7. Which design patterns have you implemented in your microservices architecture?
+8. What is the API gateway pattern, and how does it work in a microservices architecture?
+9. What is the saga pattern, and have you implemented it?
+10. How do you handle events in a microservices architecture?
+11. How do you create a custom component in React?
+12. What is lazy loading in React, and how does it work?
+13. What is the difference between an ArrayList and a LinkedList?
+14. For searching an element, which data structure would you prefer and why?
+15. What do you mean by a Singleton class in Java? Can you provide an implementation?
+16. How do you handle multiple threads trying to access a Singleton instance?
+17. What do you mean by method reference in Java 8?
+18. What is the @SpringBootApplication annotation, and what annotations does it combine?
+19. How do independent microservices communicate with each other?
+20. What are the three different types of directives that Angular supports? Can you explain each of them?
+21. What is the difference between default methods and normal methods in Java?
+22. Can you write a function to find the Kth largest element in an unsorted integer array?
+23. What is the time complexity of your approach for finding the Kth largest element?
+24. Can you implement a more efficient approach to reduce time complexity to \( O(N \log K) \)?
+25. What do you mean by actuators in Spring Boot, and what are their advantages?
+26. What endpoints are available with Spring Boot actuators?
+27. What are anagrams, and how can you write a function to check if two strings are anagrams?
+28. What is the difference between a PUT method and a PATCH method?
+29. What are request interceptors and request filters?
+30. What is time complexity?
+31. What is cyclomatic complexity?
+32. Can you implement a solution using functional interfaces?
+33. What is the significance of using the @Async annotation with CompletableFuture?
+34. What are CI/CD pipelines, and how do you use them in your projects?
+35. How does Spring Boot simplify microservices development compared to traditional Java frameworks?
+36. What are the advantages of using Spring Boot in application development?
+37. How do you manage transactions across multiple microservices to ensure data consistency?
+38. Can you explain how you handle schema changes in your application?
+39. How do you calculate the factorial of a number using recursion in Java?
+40. What is the difference between a HashSet and a LinkedHashSet in Java?
+41. What are the synchronization characteristics of a HashSet compared to a LinkedHashSet?
+42. What are the benefits of using a circuit breaker in a microservices architecture?
+43. How would you implement a circuit breaker principle for a set of services?
+44. What is Eureka, and how is it used in a microservices architecture?
+45. Have you worked with Kafka? Can you explain the producer and consumer model?
+46. How do you create a consumer group in Kafka?
+47. What is the purpose of the @Qualifier and @Primary annotations?
+48. What is the benefit of default methods in interfaces? Can they be overridden?
+49. Explain serialization and deserialization, including the transient keyword.
+50. What do you mean by circular reference/circular dependency, and how can you solve it?
+51. What is a transitive dependency?
+52. What is the @ControllerAdvice annotation used for?
+53. What is hash collision, and how can it be resolved?
+54. What is the difference between LinkedHashMap and ConcurrentHashMap?
+55. How do you differentiate between PUT and PATCH methods?
+56. Can you explain the different bean scopes in Spring?
+57. What is the try-with-resources concept in Java?
+58. What is the role of @InjectMocks in unit testing?
+
